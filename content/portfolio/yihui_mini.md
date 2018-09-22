@@ -1,5 +1,5 @@
 ---
-image: img/portfolio/yihui_mini.pdf
+image: img/portfolio/yihui_mini.png
 title: yihui_mini
 ---
 
