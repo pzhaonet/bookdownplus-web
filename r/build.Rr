@@ -1,0 +1,42 @@
+# initialize -------------------------------------------
+bdp_path <- 'd:/github/bookdownplus/'
+
+# get portfolio template -------------------------------
+pf <- readLines('r/pf_template.md', encoding = 'UTF-8')
+
+# get bookdown templates -------------------------------
+library('bookdownplus')
+templates <- get_template()
+templates <- subset(templates, subset = location == 'remote')
+n <- nrow(templates)
+
+# create portfolioes -----------------------------------
+i <- 1
+for(i in 1:n){
+  pfnew <- pf[1:11]
+  showcasefile <- dir(paste0(bdp_path, 'upload/calendar/showcase'))
+  if(any(grepl(pattern = '^cover.', showcasefile))) {
+    pfimg <- grep(pattern = '^cover.', showcasefile, value = TRUE)
+  } else {
+    pfimg <- showcasefile[1]
+  }
+  pfnew[2] <- paste('image:', pfimg)
+  
+  pfnew[3] <- paste('title:', templates[i, 'name'])
+  
+  pfnew[6] <- paste('by', templates[i, 'author'])
+  
+  pfnew[8] <- templates[i, 'intro']
+  
+  readmefile <- paste0(bdp_path, 'upload/calendar/readme.txt')
+  if(file.exists(readmefile)) {
+    readme <- readLines(readmefile, encoding = 'UTF-8')
+    pfnew <- c(pfnew, readme)
+  }
+  
+  pfnew <- c(pfnew, paste0('![](', showcasefile, ')'), '')
+  
+  pfnewfile <- paste0('content/portfolio/', templates[i, 'name'], '.md')
+  
+  writeLines(pfnew, pfnewfile, useBytes = TRUE)
+}
