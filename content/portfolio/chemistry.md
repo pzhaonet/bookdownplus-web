@@ -1,5 +1,5 @@
 ---
-image: img/portfolio/cover.png
+image: img/portfolio/chemistry.png
 title: chemistry
 ---
 

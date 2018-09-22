@@ -1,5 +1,5 @@
 ---
-image: img/portfolio/cover.png
+image: img/portfolio/skak.png
 title: skak
 ---
 

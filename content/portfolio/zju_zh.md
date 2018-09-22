@@ -1,5 +1,5 @@
 ---
-image: img/portfolio/cover.png
+image: img/portfolio/zju_zh.png
 title: zju_zh
 ---
 

@@ -1,5 +1,5 @@
 ---
-image: img/portfolio/cover.png
+image: img/portfolio/dnd_dev.png
 title: dnd_dev
 ---
 
