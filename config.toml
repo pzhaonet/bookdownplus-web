@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "blue"
   description = "R bookdown templates"
   copyright = "&copy;2018 Peng Zhao"
   sidebarAbout = [
@@ -47,3 +47,4 @@ googleAnalytics = ""
 
   [params.social]
   email         = "pzhao@pzhao.net"
+  github        = "https://github.com/pzhaonet/bookdownplus-web"

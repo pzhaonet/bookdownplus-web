@@ -13,30 +13,46 @@ n <- nrow(templates)
 # create portfolioes -----------------------------------
 i <- 1
 for(i in 1:n){
+  template <- templates[i, 'name']
+  prefix <- paste0('https://github.com/pzhaonet/bookdownplus/raw/master/upload/', template, '/showcase/')
   pfnew <- pf[1:11]
-  showcasefile <- dir(paste0(bdp_path, 'upload/calendar/showcase'))
+  
+  showcasepath <- paste0(bdp_path, 'upload/', template, '/showcase')
+  showcasefile <- dir(showcasepath)
   if(any(grepl(pattern = '^cover.', showcasefile))) {
-    pfimg <- grep(pattern = '^cover.', showcasefile, value = TRUE)
+    pfimg <- grep(pattern = '^cover.', showcasefile, value = TRUE)[1]
   } else {
     pfimg <- showcasefile[1]
   }
-  pfnew[2] <- paste('image:', pfimg)
+  file.copy(paste0(showcasepath, '/', pfimg), paste0('static/img/portfolio/', template, substr(pfimg, nchar(pfimg) - 3, nchar(pfimg))))
   
-  pfnew[3] <- paste('title:', templates[i, 'name'])
+  pfnew[2] <- paste0('image: img/portfolio/', pfimg)
   
-  pfnew[6] <- paste('by', templates[i, 'author'])
+  pfnew[3] <- paste('title:', template)
   
+  pfnew[6] <- paste('by', templates[i, 'author'], '(demo: ')
+  
+  if(any(grepl(pattern = '.pdf$', showcasefile))) {
+    pdffile <- grep(pattern = '.pdf$', showcasefile, value = TRUE)
+    pfnew[6] <- paste0(pfnew[6], '[pdf](https://github.com/pzhaonet/bookdownplus/raw/master/upload/', template, '/showcase/', pdffile[1], '), ')
+  }
+  
+  pfnew[6] <- paste0(pfnew[6], '[zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/', template, '/demo.zip))')
+
   pfnew[8] <- templates[i, 'intro']
   
-  readmefile <- paste0(bdp_path, 'upload/calendar/readme.txt')
+  readmefile <- paste0(bdp_path, 'upload/', template, '/readme.txt')
   if(file.exists(readmefile)) {
     readme <- readLines(readmefile, encoding = 'UTF-8')
     pfnew <- c(pfnew, readme)
   }
   
-  pfnew <- c(pfnew, paste0('![](', showcasefile, ')'), '')
+  showcasepng <- grep(pattern = '.png$', showcasefile, value = TRUE)
+  showcasejpg <- grep(pattern = '.jpg$', showcasefile, value = TRUE)
+  showcasegif <- grep(pattern = '.gif$', showcasefile, value = TRUE)
   
-  pfnewfile <- paste0('content/portfolio/', templates[i, 'name'], '.md')
+  pfnew <- c(pfnew, paste0('![](', prefix, c(showcasepng, showcasejpg, showcasegif), ')'), '')
+  pfnewfile <- paste0('content/portfolio/', template, '.md')
   
   writeLines(pfnew, pfnewfile, useBytes = TRUE)
 }

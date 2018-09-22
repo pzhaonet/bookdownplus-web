@@ -1,14 +1,13 @@
 ---
-image: img/portfolio/calendar.png
+image: img/portfolio/cover.png
 title: calendar
 ---
 
-by Peng Zhao
+by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/calendar.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/demo.zip))
 
 monthly or weekly calendar
 
 <!--more-->
 
-![](calendar1 - Copy.png)
-![](cover.png)
+![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png)
 
