@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative portfolio</title>
+    <title>bookdownplus</title>
     <link>/</link>
-    <description>Recent content on Creative portfolio</description>
+    <description>Recent content on bookdownplus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
@@ -28,8 +28,9 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/calendar/</guid>
-      <description>&lt;p&gt;by Peng Zhao (download: .pdf, .zip)
-monthly or weekly calendar&lt;/p&gt;
+      <description>&lt;p&gt;by Peng Zhao&lt;/p&gt;
+
+&lt;p&gt;monthly or weekly calendar&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
