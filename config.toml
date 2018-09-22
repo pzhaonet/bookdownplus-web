@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "R bookdown templates"
   copyright = "&copy;2018 Peng Zhao"
   sidebarAbout = [
-    "I am a ecologist.",
-    "Originally from China, currently based in Europe."
+    "Collections of R bookdown templates. ",
+    "Showcase of R bookdownplus."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

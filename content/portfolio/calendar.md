@@ -1,5 +1,5 @@
 ---
-image: https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png
+image: img/portfolio/calendar.png
 title: calendar
 ---
 
