@@ -1,4 +1,4 @@
-baseurl = "http://bookdownplus.netlify.com"
+baseurl = "/"
 title = "bookdownplus"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
