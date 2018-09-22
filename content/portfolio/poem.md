@@ -9,8 +9,8 @@ poem book
 
 <!--more-->
 
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)
 

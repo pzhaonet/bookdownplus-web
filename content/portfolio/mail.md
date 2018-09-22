@@ -9,5 +9,5 @@ personal or business mail
 
 <!--more-->
 
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)
 

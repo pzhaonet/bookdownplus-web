@@ -9,9 +9,9 @@ laboratory journal or personal diary
 
 <!--more-->
 
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)
 

@@ -9,6 +9,6 @@ academic article
 
 <!--more-->
 
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)
 

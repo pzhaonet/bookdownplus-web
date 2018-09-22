@@ -9,8 +9,8 @@ academic article by mdpi
 
 <!--more-->
 
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)
-![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)
 
