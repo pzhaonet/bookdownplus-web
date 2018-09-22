@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "R bookdown templates"
   copyright = "&copy;2018 Peng Zhao"
   sidebarAbout = [
-    "Collections of R bookdown templates. ",
-    "Showcase of R bookdownplus."
+    "Collections of R [bookdown](https://bookdown.org/yihui/bookdown/) templates. ",
+    "Showcase of R [bookdownplus](https://bookdown.org/baydap/bookdownplus)."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
