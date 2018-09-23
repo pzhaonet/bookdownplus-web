@@ -55,4 +55,10 @@ From the version 1.5, bookdownplus opens a widest-ever door to contributors. Her
 4. Add the template information, including the template name, the contributor's name, and a brief introduction, into 'upload/-list.csv'.
 5. Create a Pull Request to bookdownplus.
 
-Wait for the response, and your template will be available in the gallery.
+Wait for the response, and your template will be available in the gallery. R users can get it easily by clicking the ".zip" link in the gallery, or running
+
+```
+bookdownplus("your_template_name")
+```
+
+Any suggestions? Please [contact me](contact/)!
