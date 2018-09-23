@@ -1,14 +1,13 @@
 ---
-image: img/portfolio/elsevier.png
+image: img/portfolio/elsevierNA
 title: elsevier
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/elsevier.zip))
+Write academic papers of Elsevier journals.
 
-academic article
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/elsevier/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/elsevier/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/elsevier/showcase/)
 

@@ -3,9 +3,9 @@ image: "image"
 title: "template"
 ---
 
-by author (download: .pdf, .zip)
-
 -list.intro
+
+> by author (download: .pdf, .zip)
 
 <!--more-->
 

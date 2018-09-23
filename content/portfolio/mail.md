@@ -1,13 +1,13 @@
 ---
-image: img/portfolio/mail.png
+image: img/portfolio/mailNA
 title: mail
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/mail.zip))
+Write elegant traditional mails. Multiple themes are available.
 
-personal or business mail
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mail/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mail/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mail/showcase/)
 

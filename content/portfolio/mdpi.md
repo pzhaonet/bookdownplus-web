@@ -1,16 +1,13 @@
 ---
-image: img/portfolio/mdpi.png
+image: img/portfolio/mdpiNA
 title: mdpi
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/mdpi.zip))
+Write academic papers in the layout of MDPI journals.
 
-academic article by mdpi
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mdpi/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mdpi/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/mdpi/showcase/)
 

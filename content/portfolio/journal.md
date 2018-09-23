@@ -1,17 +1,13 @@
 ---
-image: img/portfolio/journal.png
+image: img/portfolio/journalNA
 title: journal
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/journal.zip))
+Laboratory journal or personal diary.
 
-laboratory journal or personal diary
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/journal/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/journal/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/journal/showcase/)
 

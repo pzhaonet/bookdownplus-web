@@ -1,18 +1,13 @@
 ---
-image: img/portfolio/nte_zh.png
+image: img/portfolio/nte_zhNA
 title: nte_zh
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/nte_zh.zip))
+A template from Nothing to envy, in Chinese
 
-a template from Nothing to envy, in Chinese
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/nte_zh/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/nte_zh/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/nte_zh/showcase/)
 

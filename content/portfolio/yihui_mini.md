@@ -1,17 +1,13 @@
 ---
-image: img/portfolio/yihui_mini.png
+image: img/portfolio/yihui_miniNA
 title: yihui_mini
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/yihui_mini.zip))
+[A mini demo book for bookdown](https://github.com/yihui/bookdown-minimal).
 
-a mini demo book by Yihui Xie
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/yihui_mini/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini1.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini4.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/yihui_mini/showcase/yihui_mini5.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/yihui_mini/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/yihui_mini/showcase/)
 

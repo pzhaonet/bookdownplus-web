@@ -1,15 +1,13 @@
 ---
-image: img/portfolio/copernicus.png
+image: img/portfolio/copernicusNA
 title: copernicus
 ---
 
-by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/copernicus.zip))
+Write academic papers of Copernicus journals. Support both the two-columned pdf version and the discussion version.
 
-academic article
+> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/copernicus/demo.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/copernicus/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/copernicus/showcase/)
 
