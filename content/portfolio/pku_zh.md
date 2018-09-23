@@ -1,13 +1,41 @@
 ---
-image: img/portfolio/pku_zhNA
+image: img/portfolio/pku_zh.png
 title: pku_zh
 ---
 
 Write a thesis of Peking University with R markdown syntax.
 
-> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/pku_zh/demo.zip))
+> by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/pku_zh.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/pku_zh/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/pku_zh/showcase/)
+
+The pdf template of bookdown-pku originated from the LaTeX template '[CasperVector](https://github.com/CasperVector)/pkuthss' . I modified it as 'tex/template_pku.tex', i.e. the title, author and abstracts  were moved from the original LaTeX template to the yaml of 'index.Rmd'.
+
+Here is a brief description for re-use:
+
+- Install R and RStudio.
+- Install R bookdown package and R bookdownplus package.
+- Create a skeleton of the manuscript.
+- Revise the .Rmd files as your own.
+- Build the book.
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png)
 

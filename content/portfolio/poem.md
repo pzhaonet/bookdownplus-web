@@ -1,13 +1,16 @@
 ---
-image: img/portfolio/poemNA
+image: img/portfolio/poem.png
 title: poem
 ---
 
 A poem book.
 
-> by Peng Zhao (demo: [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/poem/demo.zip))
+> by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/poem.zip))
 
 <!--more-->
 
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/poem/showcase/)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/poem/showcase/)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)
 
