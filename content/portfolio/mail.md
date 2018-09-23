@@ -22,4 +22,8 @@ Here is a brief description for re-use:
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail4.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail5.png)
 
