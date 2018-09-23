@@ -44,7 +44,7 @@ You don't know which template to choose? The home page of this website is a gall
 
 If you are willing to share your bookdown templates, just upload them to the [bookdownplus repo](https://github.com/pzhaonet/bookdownplus). They will be displayed in the gallery automatically once accepted.
 
-From the version 1.5, bookdownplus opens an door to contributors most-ever widely. Here is how:
+From the version 1.5, bookdownplus opens a widest-ever door to contributors. Here is how:
 
 1. Make sure that your template works successfully with bookdown.
 2. Prepare a folder in your working directory by running `bookdownplus::share('your_template_name')` . Follow the instructions in each subfolder and create the required files. 
