@@ -10,6 +10,14 @@ Thesis of University of Bayreuth
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bd('ubt')
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png)

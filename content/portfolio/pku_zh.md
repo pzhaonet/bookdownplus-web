@@ -4,7 +4,7 @@ title: pku_zh
 weight: 1
 ---
 
-Write a thesis of Peking University with R markdown syntax.
+Write a thesis of Peking University with R markdown syntax. (北京大学学位论文模板。)
 
 > by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/pku_zh.zip))
 
@@ -13,13 +13,12 @@ Write a thesis of Peking University with R markdown syntax.
 
 The pdf template of bookdown-pku originated from the LaTeX template '[CasperVector](https://github.com/CasperVector)/pkuthss' . I modified it as 'tex/template_pku.tex', i.e. the title, author and abstracts  were moved from the original LaTeX template to the yaml of 'index.Rmd'.
 
-Here is a brief description for re-use:
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
 
-- Install R and RStudio.
-- Install R bookdown package and R bookdownplus package.
-- Create a skeleton of the manuscript.
-- Revise the .Rmd files as your own.
-- Build the book.
+```r
+library('bookdownplus')
+bd('pku_zh')
+```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png)

@@ -4,12 +4,20 @@ title: zju_zh
 weight: 9
 ---
 
-Thesis of Zhejiang Uni., in Chinese.
+Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)
 
 > by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/demo.zip))
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bookdownplus('zju_zh', render = TRUE, rproj = TRUE)
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh11.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh13.png)

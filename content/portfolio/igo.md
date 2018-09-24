@@ -10,6 +10,14 @@ Insert Go game diagrams.
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bookdownplus('igo', render = TRUE, rproj = TRUE)
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png)

@@ -10,6 +10,14 @@ A book template from the book [A short course on nonparametric curve estimation]
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bd('nonpar')
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png)

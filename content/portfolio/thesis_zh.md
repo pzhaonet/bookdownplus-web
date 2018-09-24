@@ -4,12 +4,20 @@ title: thesis_zh
 weight: 1
 ---
 
-A simple template for thesis in Chinese
+A simple template for thesis in Chinese. (简单的中文学位论文模板。)
 
 > by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/thesis_zh.zip))
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bd('thesis_zh')
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png)

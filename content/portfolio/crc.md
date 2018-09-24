@@ -4,12 +4,21 @@ title: crc
 weight: 1
 ---
 
-Writing a book of [Chapman & Hall](https://github.com/yihui/bookdown-crc). Adapted by Peng Zhao.
+Writing a book of [Chapman & Hall](https://github.com/yihui/bookdown-crc). 
 
-> by Yihui Xie (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/crc.zip))
+> by Yihui Xie, adapted by Peng Zhao (demo: [pdf](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc.pdf), [zip](https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/crc.zip))
 
 <!--more-->
 
+
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bd('crc')
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc1.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc10.png)

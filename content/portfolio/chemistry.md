@@ -10,6 +10,14 @@ Write a book with chemical molecular formulae and equations.
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bookdownplus('chemistry', render = TRUE, rproj = TRUE)
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png)

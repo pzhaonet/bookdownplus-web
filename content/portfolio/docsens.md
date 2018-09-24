@@ -10,6 +10,14 @@ A template from the book [Lokal lagring og bruk av sensitive data](https://bookd
 
 <!--more-->
 
+Install R, bookdown, LaTeX, and bookdownplus. Then run the following code in R language to create a book from this template:
+
+```r
+library('bookdownplus')
+bd('docsens')
+```
+
+More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png)
 [![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png)
