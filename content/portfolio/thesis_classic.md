@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/thesis_classic.png
 title: thesis_classic
+weight: 1
 ---
 
 Classic thesis.

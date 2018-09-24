@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/chemistry_zh.png
 title: chemistry_zh
+weight: 9
 ---
 
 Write a chemistry book in Chinese.

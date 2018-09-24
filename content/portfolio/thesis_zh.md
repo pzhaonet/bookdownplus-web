@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/thesis_zh.png
 title: thesis_zh
+weight: 1
 ---
 
 A simple template for thesis in Chinese

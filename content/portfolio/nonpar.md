@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/nonpar.png
 title: nonpar
+weight: 1
 ---
 
 A book template from the book [A short course on nonparametric curve estimation](https://bookdown.org/egarpor/nonpar-eafit/)

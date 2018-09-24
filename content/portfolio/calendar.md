@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/calendar.png
 title: calendar
+weight: 9
 ---
 
 Insert monthly or weekly calendar.

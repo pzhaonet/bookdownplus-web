@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/poem.png
 title: poem
+weight: 1
 ---
 
 A poem book.

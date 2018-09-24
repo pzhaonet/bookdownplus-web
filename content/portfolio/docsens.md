@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/docsens.png
 title: docsens
+weight: 1
 ---
 
 A template from the book [Lokal lagring og bruk av sensitive data](https://bookdown.org/areedv/docSens/)

@@ -1,6 +1,7 @@
 ---
 image: "image"
 title: "template"
+weight: 0
 ---
 
 -list.intro

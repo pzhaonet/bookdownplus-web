@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/mail.png
 title: mail
+weight: 1
 ---
 
 Write elegant traditional mails. Multiple themes are available.

@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/musix.png
 title: musix
+weight: 9
 ---
 
 Typesetting music and related stuff.

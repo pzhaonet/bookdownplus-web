@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/zju_zh.png
 title: zju_zh
+weight: 9
 ---
 
 Thesis of Zhejiang Uni., in Chinese.

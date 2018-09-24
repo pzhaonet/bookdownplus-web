@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/igo.png
 title: igo
+weight: 9
 ---
 
 Insert Go game diagrams.

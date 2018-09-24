@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/rbasics.png
 title: rbasics
+weight: 1
 ---
 
 A template from the book [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)

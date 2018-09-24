@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/paper_zh.png
 title: paper_zh
+weight: 1
 ---
 
 Write academic manuscript in Chinese with bilingual titles, author lists, abstracts, and keywords.

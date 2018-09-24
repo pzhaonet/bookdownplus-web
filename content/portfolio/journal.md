@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/journal.png
 title: journal
+weight: 1
 ---
 
 Laboratory journal or personal diary.

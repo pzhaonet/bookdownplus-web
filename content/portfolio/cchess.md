@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/cchess.png
 title: cchess
+weight: 9
 ---
 
 Instert Chinese chess diagrams.

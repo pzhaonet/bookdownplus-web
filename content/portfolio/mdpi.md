@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/mdpi.png
 title: mdpi
+weight: 1
 ---
 
 Write academic papers in the layout of MDPI journals.

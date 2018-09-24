@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/pku_zh.png
 title: pku_zh
+weight: 1
 ---
 
 Write a thesis of Peking University with R markdown syntax.

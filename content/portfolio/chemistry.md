@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/chemistry.png
 title: chemistry
+weight: 9
 ---
 
 Write a book with chemical molecular formulae and equations.

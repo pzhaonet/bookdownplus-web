@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/skak.png
 title: skak
+weight: 9
 ---
 
 Insert chess diagrams.

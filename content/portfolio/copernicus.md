@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/copernicus.png
 title: copernicus
+weight: 1
 ---
 
 Write academic papers of Copernicus journals. Support both the two-columned pdf version and the discussion version.

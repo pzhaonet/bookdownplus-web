@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/ubt.png
 title: ubt
+weight: 1
 ---
 
 Thesis of University of Bayreuth

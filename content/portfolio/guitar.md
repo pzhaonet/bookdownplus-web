@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/guitar.png
 title: guitar
+weight: 9
 ---
 
 Write a book with guitar chords.

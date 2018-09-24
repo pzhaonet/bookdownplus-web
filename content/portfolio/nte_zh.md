@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/nte_zh.png
 title: nte_zh
+weight: 1
 ---
 
 A template from Nothing to envy, in Chinese

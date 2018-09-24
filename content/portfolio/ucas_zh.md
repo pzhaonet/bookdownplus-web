@@ -1,6 +1,7 @@
 ---
 image: img/portfolio/ucas_zh.png
 title: ucas_zh
+weight: 1
 ---
 
 Write a thesis of the University of Chinese Academy of Sciences.
