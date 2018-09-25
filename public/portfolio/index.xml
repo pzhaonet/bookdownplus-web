@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on bookdownplus</title>
+    <title>Portfolios on bookdownplus gallery</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolios on bookdownplus</description>
+    <description>Recent content in Portfolios on bookdownplus gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,14 +11,466 @@
     
     
     <item>
+      <title>classic</title>
+      <link>/portfolio/classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/classic/</guid>
+      <description>&lt;p&gt;Classic thesis.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/classic/showcase/thesis_classic.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/classic.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>copernicus</title>
+      <link>/portfolio/copernicus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/copernicus/</guid>
+      <description>&lt;p&gt;Write academic papers of Copernicus journals. Support both the two-columned pdf version and the discussion version.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/copernicus.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>crc</title>
+      <link>/portfolio/crc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/crc/</guid>
+      <description>&lt;p&gt;Writing a book of &lt;a href=&#34;https://github.com/yihui/bookdown-crc&#34;&gt;Chapman &amp;amp; Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Yihui Xie, adapted by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/crc/showcase/yihui_crc.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/crc.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>/portfolio/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/demo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/bookdown-demo&#34;&gt;The original demo book for bookdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Yihui Xie, adapted by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>demo_zh</title>
+      <link>/portfolio/demo_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/demo_zh/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yihui/bookdown-chinese&#34;&gt;The original demo book for bookdown in Chinese&lt;/a&gt;. (官方中文模板。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Yihui Xie, adapted by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo_zh/showcase/yihui_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/demo_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>docsens</title>
+      <link>/portfolio/docsens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/docsens/</guid>
+      <description>&lt;p&gt;A template from the book &lt;a href=&#34;https://bookdown.org/areedv/docSens/&#34;&gt;Lokal lagring og bruk av sensitive data&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/docsens.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>elsevier</title>
+      <link>/portfolio/elsevier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/elsevier/</guid>
+      <description>&lt;p&gt;Write academic papers of Elsevier journals.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/elsevier.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>journal</title>
+      <link>/portfolio/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/journal/</guid>
+      <description>&lt;p&gt;Laboratory journal or personal diary.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/journal.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>mail</title>
+      <link>/portfolio/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mail/</guid>
+      <description>&lt;p&gt;Write elegant traditional mails. Multiple themes are available.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mail/showcase/mail.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/mail.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>mdpi</title>
+      <link>/portfolio/mdpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mdpi/</guid>
+      <description>&lt;p&gt;Write academic papers in the layout of MDPI journals.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/mdpi.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>mini</title>
+      <link>/portfolio/mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mini/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yihui/bookdown-minimal&#34;&gt;A mini demo book for bookdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Yihui Xie, adapted by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/mini.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nonpar</title>
+      <link>/portfolio/nonpar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/nonpar/</guid>
+      <description>&lt;p&gt;A book template from the book &lt;a href=&#34;https://bookdown.org/egarpor/nonpar-eafit/&#34;&gt;A short course on nonparametric curve estimation&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/nonpar.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nte_zh</title>
+      <link>/portfolio/nte_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/nte_zh/</guid>
+      <description>&lt;p&gt;A template from Nothing to envy, in Chinese. (中文散文模板。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/nte_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>paper_zh</title>
+      <link>/portfolio/paper_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/paper_zh/</guid>
+      <description>&lt;p&gt;Write academic manuscript in Chinese with bilingual titles, author lists, abstracts, and keywords. (中文学术论文模板。支持双语标题、作者、摘要、关键词。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/paper_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pku_zh</title>
+      <link>/portfolio/pku_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/pku_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of Peking University with R markdown syntax. (北京大学学位论文模板。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/pku_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>/portfolio/poem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/poem/</guid>
+      <description>&lt;p&gt;A poem book.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/poem.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rbasics</title>
+      <link>/portfolio/rbasics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/rbasics/</guid>
+      <description>&lt;p&gt;A template from the book &lt;a href=&#34;https://ismayc.github.io/rbasics-book/&#34;&gt;Getting used to R, RStudio, and R Markdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/rbasics.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>thesis_zh</title>
+      <link>/portfolio/thesis_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/thesis_zh/</guid>
+      <description>&lt;p&gt;A simple template for thesis in Chinese. (简单的中文学位论文模板。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/thesis_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ubt</title>
+      <link>/portfolio/ubt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/ubt/</guid>
+      <description>&lt;p&gt;Thesis of University of Bayreuth&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/ubt.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucas_zh</title>
+      <link>/portfolio/ucas_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/ucas_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of the University of Chinese Academy of Sciences. (中国科学院大学学位论文模板。)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ucas_zh/showcase/ucas_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/inst/templates/ucas_zh.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>calendar</title>
       <link>/portfolio/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/calendar/</guid>
-      <description>&lt;p&gt;by Peng Zhao&lt;/p&gt;
+      <description>&lt;p&gt;Insert monthly or weekly calendar.&lt;/p&gt;
 
-&lt;p&gt;monthly or weekly calendar&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/calendar.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>cchess</title>
+      <link>/portfolio/cchess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/cchess/</guid>
+      <description>&lt;p&gt;Instert Chinese chess diagrams. (插入中国象棋棋谱.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cchess/showcase/cchess.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cchess/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>chemistry</title>
+      <link>/portfolio/chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/chemistry/</guid>
+      <description>&lt;p&gt;Write a book with chemical molecular formulae and equations.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>chemistry_zh</title>
+      <link>/portfolio/chemistry_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/chemistry_zh/</guid>
+      <description>&lt;p&gt;Write a chemistry book in Chinese. (中文文档插入化学符号.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>dnd</title>
+      <link>/portfolio/dnd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/dnd/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t know what on earth it is.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd/showcase/dnd_dev.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>dnd_dev</title>
+      <link>/portfolio/dnd_dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/dnd_dev/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t know what on earth it is.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd_dev/showcase/dnd_dev.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd_dev/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>guitar</title>
+      <link>/portfolio/guitar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/guitar/</guid>
+      <description>&lt;p&gt;Write a book with guitar chords.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>igo</title>
+      <link>/portfolio/igo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/igo/</guid>
+      <description>&lt;p&gt;Insert Go game diagrams.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>musix</title>
+      <link>/portfolio/musix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/musix/</guid>
+      <description>&lt;p&gt;Typesetting music and related stuff.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/musix/showcase/musix.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/musix/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>skak</title>
+      <link>/portfolio/skak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/skak/</guid>
+      <description>&lt;p&gt;Insert chess diagrams.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>zju_zh</title>
+      <link>/portfolio/zju_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/zju_zh/</guid>
+      <description>&lt;p&gt;Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/showcase/zju_zh.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/zju_zh/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

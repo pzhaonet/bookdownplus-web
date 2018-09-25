@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/css/owl.theme.css">
 
 
-  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
 
  
 
@@ -29,8 +29,8 @@
 <link href="/css/custom.css" rel="stylesheet">
 <link rel="shortcut icon" href="/img/favicon.png">
 
-  <link href="/about/index.xml" rel="alternate" type="application/rss+xml" title="bookdownplus" />
-  <link href="/about/index.xml" rel="feed" type="application/rss+xml" title="bookdownplus" />
+  <link href="/about/index.xml" rel="alternate" type="application/rss+xml" title="bookdownplus gallery" />
+  <link href="/about/index.xml" rel="feed" type="application/rss+xml" title="bookdownplus gallery" />
 
 
 </head>
@@ -40,11 +40,13 @@
           <div class="row row-offcanvas row-offcanvas-left">
               <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="/">bookdownplus</a></h1>
+    <h1 class="sidebar-heading"><a href="/">bookdownplus gallery</a></h1>
     
-      <p class="sidebar-p">I am a ecologist.</p>
+      <p class="sidebar-p">Write elegant books and articles with markdown. </p>
     
-      <p class="sidebar-p">Originally from China, currently based in Europe.</p>
+      <p class="sidebar-p">Collections of R bookdown templates. </p>
+    
+      <p class="sidebar-p">Showcase of R bookdownplus.</p>
     
     <ul class="sidebar-menu">
       
@@ -69,6 +71,10 @@
   
   
   
+  <a href="https://github.com/pzhaonet/bookdownplus-web" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
   
 </p>
 
@@ -81,6 +87,9 @@
         | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
 
 &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+&amp; created by <a href="https://bookdown.org/yihui/blogdown">R blogdown</a> 
+&amp; deployed by <a href="https://netlify.com">Netlify</a> 
+<p><a href="/img/bookdownplus-logo.png"><img src="/img/bookdownplus-logo.png" alt="" /></a></p>
 
       </p>
     </div>
@@ -91,14 +100,77 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/">bookdownplus</a></h1>
+  <h1 class="small-navbar-heading"><a href="/">bookdownplus gallery</a></h1>
 </div>
 
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>About</h1>
-         <p>bookdownplus</p>
+         
+
+<h3 id="the-story">The Story</h3>
+
+<p>Many years ago, I collected some LaTeX templates when learning LaTeX. However, my interest in LaTeX was gone after submitting my PhD dissertation. I should have deleted these templates if they had not been so small. They would never be useful in the future, I thought.</p>
+
+<p>In 2017, I started writing the book <a href="https://xuer.pzhao.org"><em>Learning R: R for Rookies</em></a>. Unexpectedly, MS Word could not satisfy me with the typesetting. You know what I mean if you have experience (and pain) in writing a long book or dissertation with Word. Actually I suffered more, but I do not want to talk about it. I was sure that LaTeX could, but I would rather not use it.</p>
+
+<p>Like a bolt out of the blue, I found <a href="https://CRAN.R-project.org/package=bookdown">bookdown</a>.</p>
+
+<p>From then on, I could not help spending time on this amazing tool. My book was completed with bookdown. My manuscripts, produced by bookdown, were submitted to academic journals and accepted. I wrote my papa-and-son diaries on bookdown.org. All the LaTeX templates were brought back to life: I packed them in an R package: <a href="http://www.pzhao.org/en/post/bookdownplus-released/">bookdownplus</a>.</p>
+
+<p>Bookdownplus was supppsed to be a shortcut to bookdown. In the recently year, I have been doing my best to provide the beginners (and me) a friendly way to using bookdown. However, I struggled with two annoying problems. The first one is how the users (including me) can easily choose the right template. The second one is how the users (including me) can easily contribute their own templates to bookdownplus.</p>
+
+<p><a href="https://bookdownplus.netlify.com">This web app</a> you are viewing now is intended to solve these problems. Users can search for elegant bookdown templates of interest, download the template package, and leave their comments. Furthermore, contributors&rsquo; templates, if submitted to the <a href="https://github.com/pzhaonet/bookdownplus">bookdownplus repository</a>, can view their templates on this website as soon as possible.</p>
+
+<p>In another word, this web app is a showcase of the R bookdownplus package, or a window of bookdown templates.</p>
+
+<h3 id="what-is-bookdownplus">What is bookdownplus?</h3>
+
+<p><a href="https://CRAN.R-project.org/package=bookdownplus">bookdownplus</a> is an open-source software package that helps users write many kinds of books and articles, including academic journal articles, theses and dissertations, programming books (especially in R language), even guitar books, chemical equations, mails, calendars, and diaries. bookdownplus works on the basis of <a href="https://github.com/rstudio/bookdown">bookdown</a>.</p>
+
+<h3 id="what-is-bookdown">What is bookdown?</h3>
+
+<p>bookdown is an open-source package that facilitates writing books and long-form articles/reports. It can generate printer-ready books and ebooks with multiple choices of output formats such as PDF, LaTeX, HTML, EPUB, and Word. bookdown stands on the shoulder of R Markdown.</p>
+
+<h3 id="what-is-r-and-what-is-markdown">What is R and what is Markdown?</h3>
+
+<p><a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a> is an open source programing language. <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> is a lightweight markup language with plain text formatting syntax. <a href="https://rmarkdown.rstudio.com/">R Markdown</a> is a combination of both, and more.</p>
+
+<h3 id="complicated">Complicated?</h3>
+
+<p>Well, it sounds complicated so far, but it actually isn&rsquo;t.</p>
+
+<p>You don&rsquo;t have to know the definitions of R, Markdown or bookdown. Just move on and use it, and you will learn what they are. bookdownplus helps. Following the quick start on the <a href="https://github.com/pzhaonet/bookdownplus">bookdownplus repo</a>, you can create a demo book (or multiple demo books) in .pdf or .doc, or even more formats with just one single command. Full documentation can be found in the book <a href="https://bookdown.org/baydap/bookdownplus">R bookdownplus Textbook</a>.</p>
+
+<p>You don&rsquo;t know which template to choose? The home page of this website is a gallery of them, each with a title of the template name.</p>
+
+<h3 id="share-your-own-templates">Share your own templates</h3>
+
+<p>If you are willing to share your bookdown templates, just upload them to the <a href="https://github.com/pzhaonet/bookdownplus">bookdownplus repo</a>. They will be displayed in the gallery automatically once accepted.</p>
+
+<p>From the version 1.5, bookdownplus opens a widest-ever door to contributors. Here is how:</p>
+
+<ol>
+<li>Make sure that your template works successfully with bookdown.</li>
+<li>Prepare a folder in your working directory by running <code>bookdownplus::share('your_template_name')</code> . Follow the instructions in each subfolder and create the required files.
+
+<ul>
+<li>(Mandatory) &lsquo;your_template_name/demo.zip&rsquo; is the compressed file from your bookdown project folder.</li>
+<li>(Optional) &lsquo;your_template_name/showcase/&rsquo; contains the sample files (e.g. pdf, image files). An image file &lsquo;cover.png&rsquo; is recommended, which will be used as the cover image in the gallery.</li>
+<li>(Optional) You could write a &lsquo;your_template/readme.txt&rsquo; (in markdown syntax), which will be displayed as the text in the gallery.</li>
+</ul></li>
+<li>Upload your template folder &lsquo;your_template_name/&rsquo; in to &lsquo;<a href="https://github.com/pzhaonet/bookdownplus/tree/master/upload">upload/</a>&rsquo; of the bookdownplus repo.</li>
+<li>Add the template information, including the template name, the contributor&rsquo;s name, and a brief introduction, into &lsquo;upload/-list.csv&rsquo;.</li>
+<li>Create a Pull Request to bookdownplus.</li>
+</ol>
+
+<p>Wait for the response, and your template will be available in the gallery. R users can get it easily by clicking the &ldquo;.zip&rdquo; link in the gallery, or running</p>
+
+<pre><code>bookdownplus(&quot;your_template_name&quot;)
+</code></pre>
+
+<p>Any suggestions? Please <a href="https://bookdownplus.netlify.com/contact/">contact me</a>!</p>
 
       </div>
     </div>

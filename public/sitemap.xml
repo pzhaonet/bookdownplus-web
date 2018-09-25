@@ -3,28 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/portfolio/classic/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/copernicus/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/crc/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/demo_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/docsens/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/elsevier/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/journal/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/mail/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/mdpi/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/mini/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/nonpar/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/nte_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/paper_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/pku_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/poem/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/rbasics/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/thesis_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ubt/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ucas_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/cchess/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/chemistry/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/chemistry_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/dnd/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/dnd_dev/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/guitar/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/igo/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/musix/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/skak/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/zju_zh/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-09-23T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,43 +147,13 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/calendar/</loc>
   </url>
   
 </urlset>

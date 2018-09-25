@@ -24,8 +24,7 @@ bd('mdpi')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png" /></a></p>

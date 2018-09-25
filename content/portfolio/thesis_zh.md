@@ -18,16 +18,15 @@ bd('thesis_zh')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh15.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh15.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh17.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh17.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh19.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh19.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh21.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh21.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh23.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh23.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh25.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh25.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh27.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh27.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh29.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh29.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh9.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh9.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh11.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh13.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh15.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh17.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh17.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh19.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh19.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh21.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh21.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh23.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh23.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh25.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh25.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh27.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh27.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh29.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh29.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/thesis_zh/showcase/thesis_zh9.png" /></a></p>

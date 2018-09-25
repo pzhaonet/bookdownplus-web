@@ -24,7 +24,6 @@ bd('demo_zh')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus2.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/copernicus3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/copernicus/showcase/cover.png" /></a></p>

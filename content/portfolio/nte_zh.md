@@ -18,10 +18,9 @@ bd('nte_zh')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh1.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh19.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh23.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nte_zh/showcase/nte_zh7.png" /></a></p>

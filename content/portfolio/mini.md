@@ -18,9 +18,8 @@ bd('mini')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini1.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini1.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini2.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini2.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini3.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini4.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini4.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini5.png)](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini5.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini1.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini1.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini2.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini4.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini4.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mini/showcase/yihui_mini5.png" /></a></p>

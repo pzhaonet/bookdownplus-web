@@ -18,8 +18,7 @@ bookdownplus('igo', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo9.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo9.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo15.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/igo/showcase/igo9.png" /></a></p>

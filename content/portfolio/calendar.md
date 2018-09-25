@@ -18,5 +18,4 @@ bookdownplus('calendar', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png)](https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/calendar/showcase/cover.png" /></a></p>

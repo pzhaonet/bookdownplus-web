@@ -61,4 +61,4 @@ Wait for the response, and your template will be available in the gallery. R use
 bookdownplus("your_template_name")
 ```
 
-Any suggestions? Please [contact me](./contact)!
+Any suggestions? Please [contact me](https://bookdownplus.netlify.com/contact/)!
