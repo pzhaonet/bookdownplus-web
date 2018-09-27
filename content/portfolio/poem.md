@@ -18,7 +18,8 @@ bd('poem')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem1.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/poem/showcase/poem5.png)
+

@@ -21,6 +21,7 @@ bd('paper_zh')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh2.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh3.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh2.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/paper_zh/showcase/paper_zh3.png)
+

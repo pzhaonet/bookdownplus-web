@@ -25,5 +25,6 @@ bd('elsevier')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/elsevier/showcase/elsevier2.png)
+

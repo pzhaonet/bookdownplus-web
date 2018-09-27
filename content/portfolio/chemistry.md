@@ -18,7 +18,8 @@ bookdownplus('chemistry', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/cover.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/chemistry9.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry/showcase/cover.png)
+

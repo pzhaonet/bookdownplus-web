@@ -18,21 +18,22 @@ bd('ubt')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt16.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt16.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt18.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt18.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt19.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt19.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt2.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt23.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt23.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt24.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt24.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt26.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt26.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt28.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt28.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt30.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt30.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt38.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt38.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt4.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt4.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt44.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt44.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt6.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt6.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt8.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt8.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt9.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt16.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt16.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt18.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt18.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt19.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt19.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt2.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt23.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt23.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt24.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt24.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt26.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt26.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt28.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt28.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt30.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt30.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt38.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt38.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt4.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt4.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt44.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt44.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt6.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt6.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt8.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt8.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/ubt/showcase/ubt9.png)
+

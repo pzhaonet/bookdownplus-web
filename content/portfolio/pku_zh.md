@@ -21,20 +21,21 @@ bd('pku_zh')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh14.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh15.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh17.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh18.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh19.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh21.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh23.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh25.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh27.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh29.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh5.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/pku_zh/showcase/pku_zh9.png)
+

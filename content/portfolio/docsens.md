@@ -18,15 +18,16 @@ bd('docsens')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens12.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens12.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens13.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens14.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens14.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens15.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens16.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens16.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens17.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens17.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens3.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens7.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens9.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens10.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens12.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens12.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens14.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens14.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens15.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens16.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens16.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens17.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens17.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/docsens/showcase/docsens9.png)
+

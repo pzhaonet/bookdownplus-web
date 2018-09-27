@@ -18,13 +18,14 @@ bd('nonpar')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar12.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar12.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar13.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar15.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar17.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar17.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar3.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar7.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar9.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar10.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar11.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar12.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar12.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar13.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar15.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar17.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar17.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar7.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/nonpar/showcase/nonpar9.png)
+

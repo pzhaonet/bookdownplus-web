@@ -24,7 +24,8 @@ bd('mdpi')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png" /></a></p>
-<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png" /></a></p>
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/cover.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi2.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi3.png)
+[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/mdpi/showcase/mdpi4.png)
+
