@@ -18,7 +18,6 @@ bookdownplus('guitar', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar5.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar5.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/guitar/showcase/guitar5.png" /></a></p>

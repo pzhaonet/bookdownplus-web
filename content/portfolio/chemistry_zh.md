@@ -18,10 +18,9 @@ bookdownplus('chemistry_zh', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh7.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh8.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh8.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/cover.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh11.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh7.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh8.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/chemistry_zh8.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/chemistry_zh/showcase/cover.png" /></a></p>

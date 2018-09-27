@@ -18,13 +18,12 @@ bd('rbasics')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics12.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics12.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics13.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics15.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics5.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics5.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics7.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics11.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics12.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics12.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics13.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics15.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics5.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/rbasics/showcase/rbasics7.png" /></a></p>

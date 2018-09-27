@@ -18,10 +18,9 @@ bookdownplus('skak', render = TRUE, rproj = TRUE)
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak12.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak12.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak15.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak9.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak9.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak12.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak12.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak15.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak9.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/upload/skak/showcase/skak9.png" /></a></p>

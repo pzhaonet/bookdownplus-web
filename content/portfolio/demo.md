@@ -18,13 +18,12 @@ bd('demo')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo12.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo12.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo13.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo15.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo15.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo3.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo5.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo5.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo7.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo7.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo11.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo12.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo12.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo13.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo15.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo15.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo3.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo5.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo5.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo7.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/demo/showcase/yihui_demo7.png" /></a></p>

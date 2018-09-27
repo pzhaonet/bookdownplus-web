@@ -18,9 +18,8 @@ bd('journal')
 ```
 
 More detals could be found [here](https://github.com/pzhaonet/bookdownplus).
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png)
-[![](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png){.jf-image-shadow}](https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png)
-
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/cover.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal10.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal11.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal13.png" /></a></p>
+<p><a href="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png"><img class = "jf-image-shadow" src="https://github.com/pzhaonet/bookdownplus/raw/master/inst2/journal/showcase/journal3.png" /></a></p>
