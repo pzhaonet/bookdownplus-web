@@ -371,15 +371,15 @@
     </item>
     
     <item>
-      <title>cumt_zh</title>
-      <link>/portfolio/cumt_zh/</link>
+      <title>cumtb_zh</title>
+      <link>/portfolio/cumtb_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/cumt_zh/</guid>
-      <description>&lt;p&gt;Thesis of China University of Mining and Technology, Beijing. (中国矿业大学位论文模板.)&lt;/p&gt;
+      <guid>/portfolio/cumtb_zh/</guid>
+      <description>&lt;p&gt;Thesis of China University of Mining and Technology, Beijing. (中国矿业大学（北京）学位论文模板.)&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;by Xiangyun Huang (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cumt_zh/showcase/cumt.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cumt_zh/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;by Xiangyun Huang (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cumtb_zh/showcase/cumtb.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/cumtb_zh/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -395,21 +395,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd/showcase/dnd_dev.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>dnd_dev</title>
-      <link>/portfolio/dnd_dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/dnd_dev/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t know what on earth it is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;by Peng Zhao (demo: &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd_dev/showcase/dnd_dev.pdf&#34;&gt;pdf&lt;/a&gt;, &lt;a href=&#34;https://github.com/pzhaonet/bookdownplus/raw/master/upload/dnd_dev/demo.zip&#34;&gt;zip&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
