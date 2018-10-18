@@ -42,9 +42,43 @@ You don't know which template to choose? The home page of this website is a gall
 
 ### Share your own templates
 
-If you are willing to share your bookdown templates, just upload them to the [bookdownplus repo](https://github.com/pzhaonet/bookdownplus). They will be displayed in the gallery automatically once accepted.
+The bookdownplus gallery is now open for submission. There are two alternative ways. 
 
-From the version 1.5, bookdownplus opens a widest-ever door to contributors. Here is how:
+#### Submit a post
+
+Anyone is welcome to display her/his bookdown template in the bookdownplus gallery if she/he submits a post to /content/portfolio of the [gallery repo](https://github.com/pzhaonet/bookdownplus-web/tree/master/content/portfolio) following the [post template](https://raw.githubusercontent.com/pzhaonet/bookdownplus-web/master/submission_template.md):
+
+```
+---
+image: img/portfolio/your_template.png # link to the cover image
+title: your_template# name of the template
+author: Li Lei # the one who created this template
+contributor: Han Meimei # the one who submitted to bookdownplus
+download: https://github.com/your_id/your_repo/archive/master.zip # the url of the template
+weight: 2
+summary: A brief introduction, which appears in the R bookdownplus package.
+---
+
+A short introduction to your template, which appears on the home page of bookdownplus gallery.
+
+> Created by the author, submitted by the contributor (demo: [pdf](pdf url), [zip](zip url))
+
+<!--more-->
+
+Details of your package.
+```
+
+
+The accepted submissions will be available in the bookdownplus package:
+
+```
+bookdownplus::get_template()
+```
+
+
+#### Submit a package
+
+You can upload your templates to the [bookdownplus repo](https://github.com/pzhaonet/bookdownplus). They will be displayed in the gallery automatically once accepted. Here is how:
 
 1. Make sure that your template works successfully with bookdown.
 2. Prepare a folder in your working directory by running `bookdownplus::share('your_template_name')` . Follow the instructions in each subfolder and create the required files. 
